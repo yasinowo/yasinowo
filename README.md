@@ -1,54 +1,79 @@
-<!--
-╔════════════════════════════════════════╗
-║     Y A S I N  « y a s i n o w o »     ║
-╚════════════════════════════════════════╝
--->
+<!--──────────────────────────────────────────────
+   ⚡  Y A S I N A Z I Z I P O U R  |  @yasinowo
+──────────────────────────────────────────────-->
 
-# Hi there 👋  
-I’m **Yasin Azizi-Pour** (@yasinowo) — Mobile & Flutter Developer at *Sahand Kavir*
+<div align="center">
 
----
+# 👋 Hey there, I'm **Yasin**  
 
-### 🔭 What I do
-- Craft cross-platform apps with **Flutter** & **Dart**
-- Work with **Firebase**, **Supabase**, GetX and modern architectures  
-- Blend tech, art & creativity: guitar riffs 🎸 · game dev · minimalist UI/UX  
-- Coffee lover ☕ · maker · silent strength  
+🚀 *Mobile & Flutter Developer*  
+💡 *Building smooth, creative experiences with Flutter, Dart & Firebase*  
+
+</div>
 
 ---
 
-### 📊 GitHub Stats  
-[![Yasin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinowo&show_icons=true&theme=tokyonight)](https://github.com/yasinowo)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinowo&layout=compact&theme=tokyonight)](https://github.com/yasinowo)
+### 🧠 About me  
+- Crafting apps with a balance of **art + logic**  
+- Exploring **Flutter Web** & **responsive design**  
+- Love music (🎸), drawing, and building unique digital experiences  
+- Coffee-powered ☕ | Minimalist | Quietly ambitious  
 
 ---
 
-### 🧰 Tools & Stack
-| Category           | Stack & Tools                             |
-|--------------------|------------------------------------------|
-| Mobile Framework   | Flutter                                  |
-| Language           | Dart                                     |
-| Backend Services   | Firebase · Supabase                       |
-| State Management   | GetX · (Bloc familiar)                    |
-| UI / UX            | Figma basics · Responsive design mindset  |
-| Other Interests    | Game Dev · Guitar · Coffee · Minimal Art  |
+### 🧰 Tech Stack
+<div align="center">
+
+| Mobile | Backend | State Mgmt | Tools | Design |
+|:------:|:--------:|:-----------:|:------:|:--------:|
+| 🐦 Flutter | 🔥 Firebase / Supabase | ⚙️ GetX / Bloc | 🧩 Git / GitHub / Postman | 🎨 Figma |
+
+</div>
 
 ---
 
-### 🌱 Currently Learning
-- Responsive Web with Flutter Web  
-- Advanced UI/UX patterns in Figma  
-- Game-mechanics & skill development (planche, body skill training)  
+### ⚡ GitHub Stats  
+<div align="center">
+
+![Yasin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinowo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinowo&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+
+</div>
 
 ---
 
-### 📫 Connect with me
-- LinkedIn: [linkedin.com/in/yasin-azizi-](https://www.linkedin.com/in/yasin-azizi-)  
-- Telegram: [@yasinid](https://t.me/yasinid)  
-- Email: yasinowou@gmail.com  
+### 🌀 Currently
+- Building beautiful **mobile & web interfaces**  
+- Improving UI motion and animation in Flutter  
+- Learning advanced **responsive layout design**  
+- Sketching ideas for a **future indie game** 🎮  
 
 ---
 
-> *“Curiosity moves the world forward.”*
+### 🌐 Connect with me
+<div align="center">
 
-<!-- End of README -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasin%20Azizi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasin-azizi-)  
+[![Telegram](https://img.shields.io/badge/Telegram-@yasinid-blue?style=flat-square&logo=telegram)](https://t.me/yasinid)  
+[![Gmail](https://img.shields.io/badge/Email-yasinowou@gmail.com-red?style=flat-square&logo=gmail)](mailto:yasinowou@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+> ✨ *“Curiosity moves the world forward.”* ✨  
+> — yasinowo
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=yasinowo&color=7fff7f&style=flat-square&label=Profile+Views)
+
+</div>
+
+<!--──────────────────────────────────────────────-->
