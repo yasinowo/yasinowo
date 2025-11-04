@@ -4,7 +4,7 @@
   ╚══════════════════════════════════════════════════════════╝
 -->
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJlYWR5c3Rlc3Q0b2x1dGlvbiZjdGlkPXR3ZWV0c3RhcnQmc3Rlcj1naWZ5LmNvbQ.gif" alt="Flutter Alchemist Coding" />
+<img align="right" width="380" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Flutter Alchemist Coding" />
 
 ## Flutter Alchemist | Pixel-Perfect Apps with 120fps Magic
 
@@ -23,10 +23,6 @@ class Alchemist extends Developer {
   bool openToCollaboration = true;
   String currentBrew = "A secret app with buttery-smooth UI";
 }
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yasinid&theme=react&hide_border=true&layout=compact&custom_title=This%20Week%20in%20Code%20Alchemy&langs_count=6" alt="Wakatime Stats" />
 
 
 
@@ -88,7 +84,3 @@ Where to Find the Alchemist
 
 
   <img src="https://komarev.com/ghpvc/?username=yasinid&#x26;label=Alchemists%20Visited&#x26;color=7c3aed&#x26;style=flat-square" alt="Profile Views">
-
-
-
-  <img src="https://github.com/yasinid/yasinid/actions/workflows/update-readme.yml/badge.svg" alt="Auto Update Status">
