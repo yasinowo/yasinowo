@@ -18,5 +18,5 @@ class Yasin {
     "GetX", "Firebase", "Figma", "REST/GraphQL",
     "Git", "CI/CD", "Android SDK", "iOS SDK"
   ];
-  bool openToWork = true;
+  bool? openToWork = null;
 }
