@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I’m Yasin 👋  
+Mobile & Flutter Developer at Sahand Kavir  
 
-<!--
-**yasinowo/yasinowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About me  
+- Building cross-platform apps with **Flutter** & **Dart**  
+- Comfortable with **Firebase**, **Supabase**, GetX and modern mobile architectures  
+- Passionate about games, guitar playing, and creative tech solutions  
+- Always learning, always evolving — let’s build something meaningful  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 My stack  
+| Category           | Tools / Technologies                         |
+|--------------------|---------------------------------------------|
+| Mobile Framework   | Flutter                                     |
+| Language           | Dart                                        |
+| Backend Services   | Firebase, Supabase                           |
+| State Management   | GetX, Bloc (familiar)                        |
+| UI/UX Design       | Figma (basic) + responsive design mindset   |
+| Other Interests    | Game development, coffee, minimalist art    |
+
+---
+
+### 🌱 Current focus  
+- Diving deeper into **Flutter Web** & responsive layouts  
+- Refining my UI/UX skills (especially through Figma)  
+- Improving performance in mobile apps and exploring game mechanics  
+
+---
+
+### 📫 Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/yasin-azizi-)  
+- [Telegram](https://t.me/yasinid)  
+- Email: yasinowou@gmail.com  
+
+---
+
+> "Curiosity moves the world forward."  
