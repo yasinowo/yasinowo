@@ -23,13 +23,8 @@ class Alchemist extends Developer {
   bool openToCollaboration = true;
   String currentBrew = "A secret app with buttery-smooth UI";
 }
-
-
-
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasinid&#x26;show_icons=true&#x26;theme=tokyonight&#x26;include_all_commits=true&#x26;count_private=true&#x26;hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasinid&#x26;show_icons=true&#x26;theme=tokyonight&#x26;include_all_commits=true&#x26;count_private=true&#x26;hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinid&#x26;layout=compact&#x26;theme=tokyonight&#x26;hide_border=true&#x26;langs_count=8">
-
 
 
 
@@ -39,9 +34,7 @@ class Alchemist extends Developer {
 
 
 
-
   <img src="https://github-profile-trophy.vercel.app/?username=yasinid&#x26;theme=tokyonight&#x26;no-frame=true&#x26;margin-w=15&#x26;column=7" alt="GitHub Trophies">
-
 
 
 
@@ -55,11 +48,9 @@ class Alchemist extends Developer {
 
 
 
-
 My Alchemy Lab (Tech Stack)
 
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,figma,androidstudio,vscode,postman,graphql,supabase,appwrite,riverpod,bloc&#x26;theme=dark">
-
 
 
 
@@ -78,9 +69,7 @@ Where to Find the Alchemist
 
 
 
-
   "Code is like a potion — one wrong ingredient, and it explodes in production."
-
 
 
   <img src="https://komarev.com/ghpvc/?username=yasinid&#x26;label=Alchemists%20Visited&#x26;color=7c3aed&#x26;style=flat-square" alt="Profile Views">
