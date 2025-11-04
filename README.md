@@ -28,6 +28,7 @@ class Alchemist extends Developer {
   bool openToCollaboration = true;
   String currentBrew = "A secret app with buttery-smooth UI 🧪";
 }
+```
 <div align="center">
 ⚔️ GitHub Alchemy Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasinid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinid&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <img src="https://github-profile-trophy.vercel.app/?username=yasinid&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" /> </div>
